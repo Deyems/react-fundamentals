@@ -9,23 +9,11 @@
   width: 270px;
   height: 270px;
 }
-.large {
-  width: 270px;
-  height: 270px;
-}
 .box--medium {
   width: 180px;
   height: 180px;
 }
-.medium {
-  width: 180px;
-  height: 180px;
-}
 .box--small {
-  width: 90px;
-  height: 90px;
-}
-.small {
   width: 90px;
   height: 90px;
 }
